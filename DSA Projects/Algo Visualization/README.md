@@ -1,6 +1,5 @@
 Implemented below algorithms in Java to graphically visualize them using Java Swing and AWT.<br/>
-
-        • Convex Hull problem using the Graham scan Algorithm<br/>
+• Convex Hull problem using the Graham scan Algorithm<br/>
         
           The Convex Hull problem involves finding the smallest convex polygon that can enclose a set of points in a 2D plane.
           The Graham Scan Algorithm is a method used to solve this by first sorting the points based on their polar angle relative to a reference point 
