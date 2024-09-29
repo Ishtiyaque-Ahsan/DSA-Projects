@@ -8,6 +8,7 @@ Here a sequence of integer numbers is passed from sender to receiver as the repr
 Note : Here an integer number represents a packet.
 Once receiver receives a packet/number, it sends acknowledment to sender.
 Following Go-Back_N Approach of Packet Transfer, all methods are implemented.
+
 Here is brief about Go-Back-N:
 
 The Go-Back-N (GBN) approach in socket programming is a sliding window protocol used for 
