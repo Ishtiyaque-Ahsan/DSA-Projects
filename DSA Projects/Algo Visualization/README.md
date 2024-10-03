@@ -7,6 +7,11 @@ Implemented below algorithms in Java to graphically visualize them using Java Sw
         (usually the point with the lowest y-coordinate). 
         The algorithm then processes the points, adding them to the hull while ensuring that each new point maintains the convexity of the shape 
         by checking for counter-clockwise turns. It runs in O(n log n) time due to the sorting step, making it efficient for large datasets.
+Here is the program's result:
+![Screenshot 2024-09-29 205436](https://github.com/user-attachments/assets/e79f6d7f-3fe0-4db6-a20a-ff1c4ef3e5a7)
+![Screenshot 2024-09-29 205503](https://github.com/user-attachments/assets/88478b3d-f509-4186-9a08-e994a238a546)
+![Screenshot 2024-09-29 205529](https://github.com/user-attachments/assets/35a3431a-a25d-48f2-9d14-195ab1f64014)
+
 
 
   • Edmond Karp Algorithm to find max flow in a graph network:<br/>
